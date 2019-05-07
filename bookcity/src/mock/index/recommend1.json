@@ -1,0 +1,581 @@
+{
+    "count": 10,
+    "traceId": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+    "result": 0,
+    "msg": "",
+    "items": [
+        {
+            "ad": 0,
+            "word_count": 4869666,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 1108,
+            "copyright": "",
+            "title": "\u4ece\u4ed9\u4fa0\u4e16\u754c\u5f52\u6765",
+            "new_tags": [
+                "\u6de1\u5b9a",
+                "\u5f3a\u8005\u56de\u5f52"
+            ],
+            "on_sale": true,
+            "comment_count": 681,
+            "has_ad": 0,
+            "click": 14833787,
+            "latest_id": 1842,
+            "score": 7.4,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1524409967,
+            "finish": false,
+            "tags": [
+                "\u90fd\u5e02",
+                "\u5f02\u672f\u8d85\u80fd"
+            ],
+            "price": 5,
+            "chapter_count": 1837,
+            "authors": "\u53d1\u72c2\u7684\u5996\u9b54",
+            "categories": [
+                {
+                    "category_id": 5000000,
+                    "label": "\u90fd\u5e02"
+                },
+                {
+                    "category_id": 5000300,
+                    "label": "\u5f02\u672f\u8d85\u80fd"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u8d77\u70b9\u4e2d\u6587\u7f51",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01UwnQ1mTOc/oFYw83Jyei7OTR.jpg",
+            "reason": "",
+            "summary": "\u4e94\u5e74\u524d\uff0c\u8427\u51e1\u7a81\u7136\u795e\u79d8\u5931\u8e2a\uff0c\u751f\u4e0d\u89c1\u4eba\uff0c\u6b7b\u4e0d\u89c1\u5c38\uff0c\u6ca1\u4eba\u77e5\u9053\u4ed6\u5176\u5b9e\u662f\u53bb\u4e86\u4e00\u4e2a\u5e7f\u88a4\u65e0\u8fb9\uff0c\u4ed9\u795e\u6797\u7acb\uff0c\u5996\u9b54\u6a2a\u884c\u7684...",
+            "fiction_id": 312039,
+            "outer_id": "22380459000809402",
+            "latest": "\u7b2c1823\u7ae0 \u751f\u548c\u6b7b"
+        },
+        {
+            "ad": 0,
+            "word_count": 3752806,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": false,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 1027,
+            "copyright": "",
+            "title": "\u8c6a\u95e8\u7b2c\u4e00\u5ba0\uff1a\u5927\u53d4\uff0c\u6c42\u653e\u8fc7",
+            "new_tags": [
+                "\u5ba0\u6587",
+                "\u603b\u88c1",
+                "\u8179\u9ed1",
+                "\u5951\u7ea6",
+                "\u8c6a\u95e8"
+            ],
+            "on_sale": true,
+            "comment_count": 637,
+            "has_ad": 0,
+            "click": 48331187,
+            "latest_id": 3647,
+            "score": 8.52,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1508239108,
+            "finish": true,
+            "tags": [
+                "\u73b0\u4ee3\u8a00\u60c5",
+                "\u8c6a\u95e8\u4e16\u5bb6"
+            ],
+            "price": 5,
+            "chapter_count": 3641,
+            "authors": "\u826f\u8fb0\u591c",
+            "categories": [
+                {
+                    "category_id": 18000000,
+                    "label": "\u73b0\u4ee3\u8a00\u60c5"
+                },
+                {
+                    "category_id": 18000700,
+                    "label": "\u8c6a\u95e8\u4e16\u5bb6"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u4e91\u8d77\u4e66\u9662",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p010qmqLDRrH/khiIr0rTefq5p1.jpg",
+            "reason": "",
+            "summary": "\u201c\u4e2b\u5934\uff0c\u6562\u518d\u9003\u8dd1\u8bd5\u8bd5\uff01\u201d\n\u4e00\u4e0d\u5c0f\u5fc3\u60f9\u4e0a\u664b\u57ce\u6700\u5c0a\u8d35\u7684\u7537\u4eba\uff0c\u4ece\u6b64\uff0c\u6210\u4e86\u4ed6\u6367\u5728\u638c\u5fc3\u7684\u5b9d\u3002\n\u4e16\u4eba\u773c\u91cc\u7684\u4ed6\uff1a\u72c2",
+            "fiction_id": 321889,
+            "outer_id": "4110990703734703",
+            "latest": "\u7b2c3650\u7ae0 \u5927\u7ed3\u5c40\uff1a\u6b64\u751f\uff0c\u518d\u65e0\u9057\u61be"
+        },
+        {
+            "ad": 0,
+            "word_count": 2169856,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 13,
+            "copyright": "",
+            "title": "\u6297\u6218\u4e4b\u5175\u738b\u91cd\u751f",
+            "on_sale": true,
+            "comment_count": 7,
+            "has_ad": 0,
+            "click": 1354127,
+            "latest_id": 1064,
+            "score": 5.23,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1470579755,
+            "finish": true,
+            "tags": [
+                "\u519b\u4e8b",
+                "\u6297\u6218\u70fd\u706b"
+            ],
+            "price": 5,
+            "chapter_count": 1065,
+            "authors": "\u4e09\u5317\u4eba",
+            "categories": [
+                {
+                    "category_id": 7000000,
+                    "label": "\u519b\u4e8b"
+                },
+                {
+                    "category_id": 7000400,
+                    "label": "\u6297\u6218\u70fd\u706b"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u521b\u4e16\u4e2d\u6587\u7f51",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01IVZBy6OGu/KMnLYBk3brM4h4.jpg",
+            "reason": "",
+            "summary": "\u4e00\u4e2a\u7279\u79cd\u5175\u5728\u4e00\u6b21\u8fb9\u5883\u884c\u52a8\u4e2d\u7a7f\u8d8a\u56de\u4e09\u5341\u5e74\u4ee3\u7684\u6dde\u6caa\u6218\u573a\u4e0a\uff0c\u6210\u4e86\u4e00\u540d\u56fd\u519b\u6392\u526f\uff0c\u8840\u8089\u6a2a\u98de\u7684\u6218\u573a\uff0c\u56a3\u5f20\u51f6\u6076\u7684\u65e5...",
+            "fiction_id": 321984,
+            "outer_id": "5755f98c50e3a412a9a48f76",
+            "latest": "\u7b2c\u4e00\u96f6\u516d\u516d\u7ae0 \u5927\u7ed3\u5c40"
+        },
+        {
+            "ad": 0,
+            "word_count": 8486552,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 50,
+            "copyright": "",
+            "title": "\u6b66\u4fa0\u4e16\u754c\u5927\u7a7f\u8d8a",
+            "new_tags": [
+                "\u7a7f\u8d8a",
+                "\u70ed\u8840"
+            ],
+            "on_sale": true,
+            "comment_count": 17,
+            "has_ad": 0,
+            "click": 1022576,
+            "latest_id": 2837,
+            "score": 8.27,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1524459235,
+            "finish": false,
+            "tags": [
+                "\u79d1\u5e7b",
+                "\u65f6\u7a7a\u7a7f\u68ad"
+            ],
+            "price": 5,
+            "chapter_count": 2834,
+            "authors": "\u6211\u53eb\u6392\u4e91\u638c",
+            "categories": [
+                {
+                    "category_id": 9000000,
+                    "label": "\u79d1\u5e7b"
+                },
+                {
+                    "category_id": 9000200,
+                    "label": "\u65f6\u7a7a\u7a7f\u68ad"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u8d77\u70b9\u4e2d\u6587\u7f51",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01UOSkFg7d9/D8zMGbwrGZZpT0.jpg",
+            "reason": "",
+            "summary": "\u4e00\u4f4d\u6b66\u5b66\u5929\u8d4b\u6781\u9ad8\u7684\u73b0\u4ee3\u6563\u6253\u9ad8\u624b\uff0c\u7a7f\u8d8a\u4e8e\u5404\u7c7b\u6b66\u4fa0\u4e16\u754c\u4e2d\uff0c\u4e00\u6b65\u6b65\u6210\u4e3a\u98a0\u5cf0\u5f3a\u8005\u7684\u6545\u4e8b\uff01",
+            "fiction_id": 318400,
+            "outer_id": "22440967000620102",
+            "latest": "\u7b2c\u4e8c\u5343\u516b\u767e\u4e8c\u5341\u4e94\u7ae0 \u6885\u5c71\u602a\u5927\u6218\u9610\u6559\u4ed9"
+        },
+        {
+            "ad": 0,
+            "word_count": 886620,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 237,
+            "copyright": "",
+            "title": "\u672b\u4e16\u91cd\u751f\u4e4b\u70ae\u7070\u9006\u88ad",
+            "on_sale": true,
+            "comment_count": 148,
+            "has_ad": 0,
+            "click": 1873418,
+            "latest_id": 283,
+            "score": 8.32,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1438147857,
+            "finish": true,
+            "tags": [
+                "\u6b66\u4fa0\u540c\u4eba",
+                "\u6b66\u4fa0\u4ed9\u4fa0",
+                "\u4f20\u7edf\u6b66\u4fa0",
+                "\u540c\u4eba\u5c0f\u8bf4"
+            ],
+            "price": 5,
+            "chapter_count": 284,
+            "authors": "\u6c5d\u592b\u4eba",
+            "categories": [
+                {
+                    "category_id": 30000,
+                    "label": "\u6b66\u4fa0\u4ed9\u4fa0"
+                },
+                {
+                    "category_id": 30500,
+                    "label": "\u4f20\u7edf\u6b66\u4fa0"
+                },
+                {
+                    "category_id": 23000000,
+                    "label": "\u540c\u4eba\u5c0f\u8bf4"
+                },
+                {
+                    "category_id": 23000100,
+                    "label": "\u6b66\u4fa0\u540c\u4eba"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u8d77\u70b9\u5973\u751f\u7f51",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01BvkCWj3kS/QSuKmz1f7RIzDT.jpg",
+            "reason": "",
+            "summary": "\u91cd\u751f\u4e86\uff1f\u8427\u5b50\u9675\u9762\u5bf9\u5373\u5c06\u5230\u6765\u7684\u672b\u4e16\u82e6\u7740\u4e00\u5f20\u8138\uff0c\u672b\u4e16\u7684\u65e5\u5b50\u53ef\u4e0d\u597d\u6df7\u554a\uff01\n\u4e3a\u4e86\u5c06\u6765\u6709\u4e2a\u597d\u751f\u6d3b\uff0c\u5f97\u5148\u62b1\u6761\u5927\u7c97...",
+            "fiction_id": 303779,
+            "outer_id": "55813ff950e3a407a015a497",
+            "latest": "\u756a\u5916\uff1a\u5408\u4f5c\uff1f\u6211\u4f1a\u901a\u77e5\u4f60\u7684\u3002"
+        },
+        {
+            "ad": 0,
+            "word_count": 335259,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": false,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 1131,
+            "copyright": "",
+            "title": "\u83ab\u8d1f\u5bd2\u590f",
+            "on_sale": true,
+            "comment_count": 569,
+            "has_ad": 0,
+            "click": 3299455,
+            "latest_id": 124,
+            "score": 9.52,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1456314789,
+            "finish": true,
+            "tags": [
+                "\u5546\u6218\u804c\u573a",
+                "\u73b0\u4ee3\u8a00\u60c5"
+            ],
+            "price": 5,
+            "chapter_count": 125,
+            "authors": "\u4e01\u58a8",
+            "categories": [
+                {
+                    "category_id": 18000000,
+                    "label": "\u73b0\u4ee3\u8a00\u60c5"
+                },
+                {
+                    "category_id": 18000500,
+                    "label": "\u5546\u6218\u804c\u573a"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u4e91\u8d77\u4e66\u9662",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01GC2jN3nfD/w3CuknoSe01JvD.jpg",
+            "reason": "",
+            "summary": "\u4f60\u7ec8\u4e8e\u56de\u6765\uff0c\u5728\u6211\u8fd8\u6ca1\u5b64\u72ec\u7ec8\u8001\u7684\u65f6\u5019\u3002\r\n\u2014\u2014\u2014\u2014\r\n\u540e\u6765\uff0c\u6797\u83ab\u81e3\u5df2\u662f\u5750\u62e5\u767e\u4ebf\u8d44\u4ea7\u7684\u96c6\u56e2\u8463\u4e8b\u957f\uff0c\u56fd\u5185\u5546\u754c\u6700...",
+            "fiction_id": 316117,
+            "outer_id": "568397aa50e3a40e99c9b17c",
+            "latest": "\u756a\u5916\u4e09\u300a\u5bd2\u590f\u300b\u300a\u503e\u57ce\u300b\u8054\u5408\u756a\u5916\uff08\u4e0b\uff09"
+        },
+        {
+            "ad": 0,
+            "word_count": 1033923,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 14,
+            "copyright": "",
+            "title": "\u8d85\u7ea7\u795e\u63a0\u593a",
+            "new_tags": [
+                "\u8c6a\u95e8",
+                "\u7cfb\u7edf\u6d41"
+            ],
+            "on_sale": true,
+            "comment_count": 7,
+            "has_ad": 0,
+            "click": 161853,
+            "latest_id": 475,
+            "score": 8.57,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1524402851,
+            "finish": false,
+            "tags": [
+                "\u7384\u5e7b",
+                "\u4e1c\u65b9\u7384\u5e7b"
+            ],
+            "price": 5,
+            "chapter_count": 469,
+            "authors": "\u5947\u71c3",
+            "categories": [
+                {
+                    "category_id": 1000000,
+                    "label": "\u7384\u5e7b"
+                },
+                {
+                    "category_id": 1000100,
+                    "label": "\u4e1c\u65b9\u7384\u5e7b"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u8d77\u70b9\u4e2d\u6587\u7f51",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01ZvWYrfb2M/AXJ9GiXnUoS32X.jpg",
+            "reason": "",
+            "summary": "\u5927\u63a0\u593a\u7cfb\u7edf\u542f\u52a8\u6210\u529f\uff1a\r\n\u201c\u53ee~\u5bbf\u4e3b\u5bf9\u5929\u7384\u9053\u5b97\u5723\u5973\u79e6\u8bd7\u97f5\u4f7f\u7528\u773c\u795e\u6740\uff0c\u89e6\u53d1\u63a0\u593a\u6548\u679c\u6210\u529f\u63a0\u593a\u2018\u539f\u5473\u5185\u8863\u2019\u4e00...",
+            "fiction_id": 418439,
+            "outer_id": "8747402903611703",
+            "latest": "\u7b2c463\u7ae0 \u8fd9\u4e48\u719f\u7ec3\u30102/2\uff0c\u6c42\u8ba2\u9605\u3011"
+        },
+        {
+            "ad": 0,
+            "word_count": 2804029,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 291,
+            "copyright": "",
+            "title": "\u5f02\u80fd\u65f6\u4ee3",
+            "on_sale": true,
+            "comment_count": 227,
+            "has_ad": 0,
+            "click": 4481560,
+            "latest_id": 1022,
+            "score": 7.01,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1463652021,
+            "finish": true,
+            "tags": [
+                "\u8fdb\u5316\u53d8\u5f02",
+                "\u79d1\u5e7b",
+                "\u79d1\u5e7b\u4e16\u754c"
+            ],
+            "price": 5,
+            "chapter_count": 1023,
+            "authors": "\u6708\u6b66\u7f57",
+            "categories": [
+                {
+                    "category_id": 60000,
+                    "label": "\u79d1\u5e7b\u4e16\u754c"
+                },
+                {
+                    "category_id": 60400,
+                    "label": "\u8fdb\u5316\u53d8\u5f02"
+                },
+                {
+                    "category_id": 9000000,
+                    "label": "\u79d1\u5e7b"
+                },
+                {
+                    "category_id": 9000600,
+                    "label": "\u8fdb\u5316\u53d8\u5f02"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u521b\u4e16\u4e2d\u6587\u7f51",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p0144yoqtgtO/W0hvam7vuxE9vn.jpg",
+            "reason": "",
+            "summary": "\u5f53\u5730\u7403\u767e\u5206\u4e4b\u4e5d\u5341\u4ee5\u4e0a\u7684\u4eba\u7c7b\u90fd\u6210\u4e3a\u4e86\u4e27\u5c38\u3002\n\u5f53\u52a8\u7269\u6210\u4e3a\u4e86\u4e16\u754c\u4e3b\u5bb0\u3002\n\u5f53\u53ef\u6015\u7684\u5f02\u517d\u5165\u4fb5\u3002\n\u5f53\u4e00\u5207\u7684\u79e9\u5e8f\u90fd...",
+            "fiction_id": 281879,
+            "outer_id": "5582338c50e3a4738f4c817e",
+            "latest": "\u5728\u7ed3\u5c40\u4e2d\u843d\u5e55"
+        },
+        {
+            "ad": 0,
+            "word_count": 3588424,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": false,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 95,
+            "copyright": "",
+            "title": "\u795e\u9b54\u7cfb\u7edf",
+            "on_sale": true,
+            "comment_count": 73,
+            "has_ad": 0,
+            "click": 1578720,
+            "latest_id": 1219,
+            "score": 7.38,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1400670077,
+            "finish": true,
+            "tags": [
+                "\u4e27\u5c38",
+                "\u751f\u5b58",
+                "\u5347\u7ea7\u7ec3\u529f",
+                "\u672b\u4e16\u5371\u673a",
+                "\u6e38\u620f\u7ade\u6280",
+                "\u79d1\u5e7b",
+                "\u4f53\u80b2\u7ade\u6280"
+            ],
+            "price": 5,
+            "chapter_count": 1220,
+            "authors": "\u8d44\u4ea7\u66b4\u589e",
+            "categories": [
+                {
+                    "category_id": 40000,
+                    "label": "\u6e38\u620f\u7ade\u6280"
+                },
+                {
+                    "category_id": 40400,
+                    "label": "\u4f53\u80b2\u7ade\u6280"
+                },
+                {
+                    "category_id": 9000000,
+                    "label": "\u79d1\u5e7b"
+                },
+                {
+                    "category_id": 9000700,
+                    "label": "\u672b\u4e16\u5371\u673a"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u8d77\u70b9\u4e2d\u6587\u7f51",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01muJEAVIYk/Nls08XIvhLfwSM.jpg",
+            "reason": "",
+            "summary": "\u5728\u4e00\u4e2a\u4e2a\u4eba\u7c7b\u5c48\u5c45\u4e8e\u7edd\u5bf9\u5f31\u52bf\u7684\u4e16\u754c\u4e4b\u4e2d\uff0c\u5cb3\u91cd\u6323\u624e\u7740\u8fdb\u5316\u524d\u884c\u3002",
+            "fiction_id": 42292,
+            "outer_id": "5379bfe50ea49711bc2c61ae",
+            "latest": "\u5b8c\u672c\u611f\u8a00\uff01"
+        },
+        {
+            "ad": 0,
+            "word_count": 2689177,
+            "trace_id": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329",
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "ad_duration": 0,
+            "free_chapter": false,
+            "score_count": 1269,
+            "copyright": "",
+            "title": "\u8001\u8872\u8981\u8fd8\u4fd7",
+            "new_tags": [
+                "\u8f7b\u677e",
+                "\u5b64\u513f",
+                "\u7cfb\u7edf\u6d41",
+                "\u8d5a\u94b1"
+            ],
+            "on_sale": true,
+            "comment_count": 679,
+            "has_ad": 0,
+            "click": 10933753,
+            "latest_id": 1282,
+            "score": 9.31,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1524471346,
+            "finish": false,
+            "tags": [
+                "\u90fd\u5e02",
+                "\u90fd\u5e02\u751f\u6d3b"
+            ],
+            "price": 5,
+            "chapter_count": 1275,
+            "authors": "\u4e00\u68a6\u9ec4\u7cb1",
+            "categories": [
+                {
+                    "category_id": 5000000,
+                    "label": "\u90fd\u5e02"
+                },
+                {
+                    "category_id": 5000100,
+                    "label": "\u90fd\u5e02\u751f\u6d3b"
+                }
+            ],
+            "rights": "\u9605\u6587\u96c6\u56e2\u65d7\u4e0b\u8d77\u70b9\u4e2d\u6587\u7f51",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01zl5vqxeHl/8tgXwb3HomzWYi.jpg",
+            "reason": "",
+            "summary": "\u4e1c\u5317\u504f\u8fdc\u5c71\u533a\u7684\u4e00\u6307\u5c71\u4e0a\u6709\u4e00\u5ea7\u5c0f\u5e99\uff0c\u540d\u53eb\u4e00\u6307\u5e99\u3002\u5e99\u5b87\u4e0d\u5927\uff0c\u5374\u795e\u5947\u65e0\u6bd4\u3002\r\n\u5e99\u4e2d\u6709\u7c73\uff0c\u5341\u91cc\u98d8\u9999\u3002\r\n\u5e99\u4e2d...",
+            "fiction_id": 359610,
+            "outer_id": "6828718504896803",
+            "latest": "\u7b2c1264\u7ae0 \u661f\u6cb3"
+        }
+    ],
+    "explain": {
+        "traceId": "duokan-lgb_reason_duokan_rank_v7-e3714093-dc1c-4ed5-ac0f-6f250a9b70b6-329"
+    },
+    "total": 10000,
+    "tops": [],
+    "more": true
+}

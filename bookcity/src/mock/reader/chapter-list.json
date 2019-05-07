@@ -1,0 +1,1083 @@
+{
+    "item": {
+        "ad": 0,
+        "word_count": 110292,
+        "owner": 0,
+        "allow_discount": false,
+        "ad_time": 0,
+        "click": 10756109,
+        "free_chapter": false,
+        "score_count": 1081,
+        "copyright": "",
+        "title": "老九门",
+        "on_sale": true,
+        "comment_count": 574,
+        "has_ad": 0,
+        "ad_duration": 0,
+        "content": "民国时期，长沙车站开来一辆来历不明的火车，彻查发现来自一座深山中的百年矿山，因为常年开采导致地皮塌陷，矿山中弥漫着一股奇怪的浓雾，长沙老九门盗墓家族张家和红家经过了一番查探，发现了深埋矿山之下，有着另外一个秘密，经过一番探险，他们深入矿山之中，来到矿山的底部，看到了让人无法置信的景象。千年之前坠落的三颗陨石，长白山下埋藏的秘密，他们到底从矿山底部带出了什么东西，为何世界慢慢变的异样诡异？",
+        "latest_id": 76,
+        "score": 7.95,
+        "allow_free_read": 1,
+        "toc": [{
+                "title": "引子",
+                "price": 0,
+                "chapter_id": 0,
+                "html_sha1": "c4fbd",
+                "word_count": 388,
+                "free": true
+            },
+            {
+                "title": "第一章 鬼车",
+                "price": 0,
+                "chapter_id": 1,
+                "html_sha1": "68284",
+                "word_count": 1440,
+                "free": true
+            },
+            {
+                "title": "第二章 齐铁嘴",
+                "price": 0,
+                "chapter_id": 2,
+                "html_sha1": "a2b4a",
+                "word_count": 1210,
+                "free": true
+            },
+            {
+                "title": "第三章 甲東四墓",
+                "price": 0,
+                "chapter_id": 3,
+                "html_sha1": "eeaa3",
+                "word_count": 1983,
+                "free": true
+            },
+            {
+                "title": "第四章 最后一节车厢",
+                "price": 0,
+                "chapter_id": 4,
+                "html_sha1": "5e352",
+                "word_count": 1741,
+                "free": true
+            },
+            {
+                "title": "第五章 铁棺椁",
+                "price": 0,
+                "chapter_id": 5,
+                "html_sha1": "15cfe",
+                "word_count": 2045,
+                "free": true
+            },
+            {
+                "title": "第六章 持锣",
+                "price": 0,
+                "chapter_id": 6,
+                "html_sha1": "a7ee9",
+                "word_count": 1918,
+                "free": true
+            },
+            {
+                "title": "第七章 双指探洞",
+                "price": 0,
+                "chapter_id": 7,
+                "html_sha1": "35d38",
+                "word_count": 1903,
+                "free": true
+            },
+            {
+                "title": "第八章 夕阳鬼棺",
+                "price": 0,
+                "chapter_id": 8,
+                "html_sha1": "1e345",
+                "word_count": 1487,
+                "free": true
+            },
+            {
+                "title": "第九章 龙骨随葬",
+                "price": 0,
+                "chapter_id": 9,
+                "html_sha1": "d32f1",
+                "word_count": 1433,
+                "free": true
+            },
+            {
+                "title": "第十章 甲骨老棺",
+                "price": 0,
+                "chapter_id": 10,
+                "html_sha1": "8a1ba",
+                "word_count": 2314,
+                "free": true
+            },
+            {
+                "title": "第十一章 一月花开二月红",
+                "price": 0,
+                "chapter_id": 11,
+                "html_sha1": "97978",
+                "word_count": 2080,
+                "free": true
+            },
+            {
+                "title": "第十二章 月满湘江",
+                "price": 0,
+                "chapter_id": 12,
+                "html_sha1": "06ca4",
+                "word_count": 1640,
+                "free": true
+            },
+            {
+                "title": "第十三章 上马吊",
+                "price": 0,
+                "chapter_id": 13,
+                "html_sha1": "e505c",
+                "word_count": 1639,
+                "free": true
+            },
+            {
+                "title": "第十四章 催鼓三响",
+                "price": 0,
+                "chapter_id": 14,
+                "html_sha1": "f3635",
+                "word_count": 1862,
+                "free": true
+            },
+            {
+                "price": 8,
+                "chapter_id": 46,
+                "html_sha1": "480ae",
+                "word_count": 1764,
+                "title": "第十五章 尸蛾"
+            },
+            {
+                "price": 9,
+                "chapter_id": 47,
+                "html_sha1": "69279",
+                "word_count": 1879,
+                "title": "第十六章 钉黄仙的高人"
+            },
+            {
+                "price": 10,
+                "chapter_id": 48,
+                "html_sha1": "052c3",
+                "word_count": 2037,
+                "title": "第十七章 湘十九香"
+            },
+            {
+                "price": 6,
+                "chapter_id": 77,
+                "html_sha1": "0383c",
+                "word_count": 1339,
+                "title": "十八章 进山"
+            },
+            {
+                "price": 8,
+                "chapter_id": 78,
+                "html_sha1": "79b41",
+                "word_count": 1705,
+                "title": "十九章 九鬼踩莲花"
+            },
+            {
+                "price": 7,
+                "chapter_id": 79,
+                "html_sha1": "04c36",
+                "word_count": 1588,
+                "title": "二十章 倒挂仙"
+            },
+            {
+                "price": 8,
+                "chapter_id": 80,
+                "html_sha1": "5aa3e",
+                "word_count": 1662,
+                "title": "第二十一章 雷山小过"
+            },
+            {
+                "price": 9,
+                "chapter_id": 81,
+                "html_sha1": "9740c",
+                "word_count": 1988,
+                "title": "第二十二章 无极宝塔"
+            },
+            {
+                "price": 8,
+                "chapter_id": 82,
+                "html_sha1": "6b313",
+                "word_count": 1616,
+                "title": "第二十三章 鱼水合欢"
+            },
+            {
+                "price": 7,
+                "chapter_id": 83,
+                "html_sha1": "c2685",
+                "word_count": 1495,
+                "title": "第二十四章 黑水尸缸"
+            },
+            {
+                "price": 8,
+                "chapter_id": 84,
+                "html_sha1": "6f7d3",
+                "word_count": 1660,
+                "title": "第二十五章 线绷缸裂"
+            },
+            {
+                "price": 8,
+                "chapter_id": 85,
+                "html_sha1": "95d12",
+                "word_count": 1776,
+                "title": "第二十六章 地下尸河"
+            },
+            {
+                "price": 7,
+                "chapter_id": 86,
+                "html_sha1": "22a56",
+                "word_count": 1565,
+                "title": "第二十七章 酸汤八爷鸡"
+            },
+            {
+                "price": 8,
+                "chapter_id": 87,
+                "html_sha1": "bef41",
+                "word_count": 1772,
+                "title": "第二十八章 双面古人"
+            },
+            {
+                "price": 6,
+                "chapter_id": 88,
+                "html_sha1": "5205e",
+                "word_count": 1301,
+                "title": "第二十九章 虚冢壁画脸"
+            },
+            {
+                "price": 8,
+                "chapter_id": 89,
+                "html_sha1": "b2853",
+                "word_count": 1640,
+                "title": "第三十章 双面西王母"
+            },
+            {
+                "price": 7,
+                "chapter_id": 90,
+                "html_sha1": "603e1",
+                "word_count": 1407,
+                "title": "第三十一章 矿山外"
+            },
+            {
+                "price": 7,
+                "chapter_id": 91,
+                "html_sha1": "5cb47",
+                "word_count": 1453,
+                "title": "第三十二章 睡尸"
+            },
+            {
+                "price": 7,
+                "chapter_id": 92,
+                "html_sha1": "0da2c",
+                "word_count": 1474,
+                "title": "第三十三章 会翻身"
+            },
+            {
+                "price": 6,
+                "chapter_id": 93,
+                "html_sha1": "affde",
+                "word_count": 1380,
+                "title": "第三十四章 矿洞深处戏曲声"
+            },
+            {
+                "price": 6,
+                "chapter_id": 94,
+                "html_sha1": "65705",
+                "word_count": 1250,
+                "title": "第三十五章 风水大局"
+            },
+            {
+                "price": 7,
+                "chapter_id": 95,
+                "html_sha1": "b6c66",
+                "word_count": 1521,
+                "title": "第三十六章 大劈棺"
+            },
+            {
+                "price": 9,
+                "chapter_id": 43,
+                "html_sha1": "e496a",
+                "word_count": 1949,
+                "title": "第一章 杀春"
+            },
+            {
+                "price": 6,
+                "chapter_id": 44,
+                "html_sha1": "2c8cc",
+                "word_count": 1266,
+                "title": "第二章 六字人生"
+            },
+            {
+                "price": 10,
+                "chapter_id": 45,
+                "html_sha1": "ef228",
+                "word_count": 2038,
+                "title": "第三章 春申"
+            },
+            {
+                "price": 7,
+                "chapter_id": 49,
+                "html_sha1": "a8215",
+                "word_count": 1490,
+                "title": "第四章 水鬼白"
+            },
+            {
+                "price": 8,
+                "chapter_id": 50,
+                "html_sha1": "73f82",
+                "word_count": 1719,
+                "title": "第五章 三船八鼓"
+            },
+            {
+                "price": 7,
+                "chapter_id": 51,
+                "html_sha1": "e61c1",
+                "word_count": 1411,
+                "title": "第六章 切人头"
+            },
+            {
+                "price": 6,
+                "chapter_id": 52,
+                "html_sha1": "2a0ec",
+                "word_count": 1349,
+                "title": "第七章 女尸"
+            },
+            {
+                "price": 10,
+                "chapter_id": 53,
+                "html_sha1": "a4622",
+                "word_count": 2038,
+                "title": "第八章 一文钱的命"
+            },
+            {
+                "price": 5,
+                "chapter_id": 54,
+                "html_sha1": "2d644",
+                "word_count": 1154,
+                "title": "第九章 斗鸡"
+            },
+            {
+                "price": 8,
+                "chapter_id": 55,
+                "html_sha1": "dc679",
+                "word_count": 1680,
+                "title": "第十章 天冷"
+            },
+            {
+                "price": 6,
+                "chapter_id": 56,
+                "html_sha1": "0fcea",
+                "word_count": 1296,
+                "title": "第十一章 遗物"
+            },
+            {
+                "price": 7,
+                "chapter_id": 57,
+                "html_sha1": "d4b9a",
+                "word_count": 1477,
+                "title": "第十二章 黄葵水蝗"
+            },
+            {
+                "price": 8,
+                "chapter_id": 60,
+                "html_sha1": "f2ead",
+                "word_count": 1765,
+                "title": "第十五章 要饭的刀"
+            },
+            {
+                "price": 7,
+                "chapter_id": 61,
+                "html_sha1": "dea26",
+                "word_count": 1546,
+                "title": "第十六章 一百文买命"
+            },
+            {
+                "price": 10,
+                "chapter_id": 62,
+                "html_sha1": "70273",
+                "word_count": 2068,
+                "title": "第十七章 长衫"
+            },
+            {
+                "price": 6,
+                "chapter_id": 63,
+                "html_sha1": "570ea",
+                "word_count": 1262,
+                "title": "第十八章 陈皮有找"
+            },
+            {
+                "price": 9,
+                "chapter_id": 64,
+                "html_sha1": "a832a",
+                "word_count": 1851,
+                "title": "第十九章 俗人如蚁"
+            },
+            {
+                "price": 6,
+                "chapter_id": 65,
+                "html_sha1": "73323",
+                "word_count": 1354,
+                "title": "第二十章 花签子"
+            },
+            {
+                "price": 12,
+                "chapter_id": 66,
+                "html_sha1": "af217",
+                "word_count": 2574,
+                "title": "第二十一章 人头换人头"
+            },
+            {
+                "price": 6,
+                "chapter_id": 67,
+                "html_sha1": "e76b4",
+                "word_count": 1274,
+                "title": "第二十二章 买死鸡"
+            },
+            {
+                "price": 8,
+                "chapter_id": 68,
+                "html_sha1": "4a56c",
+                "word_count": 1604,
+                "title": "第二十三章 对面"
+            },
+            {
+                "price": 10,
+                "chapter_id": 69,
+                "html_sha1": "c0ab4",
+                "word_count": 2139,
+                "title": "第二十四章 强杀"
+            },
+            {
+                "price": 12,
+                "chapter_id": 70,
+                "html_sha1": "3c5e2",
+                "word_count": 2481,
+                "title": "第二十五章 火拼"
+            },
+            {
+                "price": 12,
+                "chapter_id": 71,
+                "html_sha1": "2a783",
+                "word_count": 2488,
+                "title": "第二十六章 九爪勾头"
+            },
+            {
+                "price": 6,
+                "chapter_id": 72,
+                "html_sha1": "912c8",
+                "word_count": 1373,
+                "title": "第二十七章 缠斗"
+            },
+            {
+                "price": 9,
+                "chapter_id": 73,
+                "html_sha1": "21400",
+                "word_count": 1949,
+                "title": "第二十八章 陈皮更年轻"
+            },
+            {
+                "price": 6,
+                "chapter_id": 74,
+                "html_sha1": "5ba7a",
+                "word_count": 1266,
+                "title": "第二十九章 摘花鼓"
+            },
+            {
+                "price": 10,
+                "chapter_id": 75,
+                "html_sha1": "f462e",
+                "word_count": 2038,
+                "title": "第三十章 本能与经验的较量"
+            },
+            {
+                "price": 10,
+                "chapter_id": 76,
+                "html_sha1": "92264",
+                "word_count": 2038,
+                "title": "第三十一章 惨胜"
+            }
+        ],
+        "rights_id": 10080,
+        "channel": [
+            1
+        ],
+        "updated": 1483690215,
+        "finish": false,
+        "rec_words": "盗墓笔记前传老九门",
+        "tags": [
+            "寻墓探险",
+            "悬疑探险",
+            "灵异"
+        ],
+        "started": 1469168519,
+        "price": 5,
+        "qrc_words": "扫码读原著，精彩抢先看！",
+        "chapter_count": 66,
+        "authors": "南派三叔",
+        "level": 0,
+        "categories": [{
+                "category_id": 8000000,
+                "label": "灵异"
+            },
+            {
+                "category_id": 8000300,
+                "label": "悬疑探险"
+            }
+        ],
+        "created": 1469173937,
+        "rights": "阅文集团旗下起点中文网",
+        "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01TQfpyV6px/06EirDzmjj8zuK.jpg",
+        "summary": "【陈伟霆、张艺兴、赵丽颖主演，同名电视剧正在热播】民国时期，长沙车站开来一辆来历不明的火车，彻查发现",
+        "fiction_id": 352876,
+        "outer_id": "4757330804346503",
+        "latest": "第三十一章 惨胜"
+    },
+    "result": 0,
+    "related": [{
+            "ad": 0,
+            "word_count": 1034544,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 750,
+            "free_chapter": false,
+            "score_count": 0,
+            "copyright": "",
+            "title": "地狱大航海",
+            "new_tags": [
+                "轻松",
+                "明星",
+                "系统流",
+                "赚钱"
+            ],
+            "on_sale": true,
+            "comment_count": 0,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 392,
+            "score": 0,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521814263,
+            "finish": false,
+            "tags": [
+                "灵异鬼怪",
+                "灵异",
+                "灵异奇谈"
+            ],
+            "price": 5,
+            "chapter_count": 393,
+            "authors": "耳成",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000400,
+                    "label": "灵异奇谈"
+                }
+            ],
+            "rights": "阅文集团旗下起点中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01f1xQAwM7j/4jF32vYpPwfJhJ.jpg",
+            "summary": "明王做了一个梦，梦见他被撞死了，父母、朋友还有她都离他远去……\n梦醒后，他发现自己真的死了，竟然来到...",
+            "fiction_id": 410911,
+            "outer_id": "8568983804523403",
+            "latest": "第三百九十一章 相问柳芸"
+        },
+        {
+            "ad": 0,
+            "word_count": 1991528,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 1877800,
+            "free_chapter": false,
+            "score_count": 321,
+            "copyright": "",
+            "title": "极品捉鬼系统",
+            "new_tags": [
+                "轻松",
+                "宅男",
+                "无敌文",
+                "盗墓"
+            ],
+            "on_sale": true,
+            "comment_count": 169,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 962,
+            "score": 9.32,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521799659,
+            "finish": false,
+            "tags": [
+                "灵异鬼怪",
+                "灵异",
+                "灵异奇谈"
+            ],
+            "price": 5,
+            "chapter_count": 960,
+            "authors": "解三千",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000400,
+                    "label": "灵异奇谈"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01ks2Rgy29l/dXT5m3xva1326r.jpg",
+            "summary": "鬼王：“等等！我闻到了人类装逼的气息，撤……。”\r\n\r\n阎王爷：“十万阴兵听令，给我拿下那装逼犯。”...",
+            "fiction_id": 381480,
+            "outer_id": "7314110403506003",
+            "latest": "第九百五十九章 他是我男人"
+        },
+        {
+            "ad": 0,
+            "word_count": 458466,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 1888,
+            "free_chapter": false,
+            "score_count": 0,
+            "copyright": "",
+            "title": "洛河小神童",
+            "new_tags": [
+                "励志",
+                "孤儿",
+                "感情",
+                "玄学"
+            ],
+            "on_sale": true,
+            "comment_count": 0,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 192,
+            "score": 0,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521800060,
+            "finish": false,
+            "tags": [
+                "灵异",
+                "恐怖惊悚"
+            ],
+            "price": 5,
+            "chapter_count": 193,
+            "authors": "文才公子",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000200,
+                    "label": "恐怖惊悚"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01yIqzWNxu8/kXB2M5InR4ljD1.jpg",
+            "summary": "十二岁的齐浩然，幼年祭祀一事后，失去双亲。继承了一位老者衣钵，走遍天下，处理阴阳琐事；明争暗斗，处处...",
+            "fiction_id": 433639,
+            "outer_id": "9213121804189603",
+            "latest": "第193章破三关"
+        },
+        {
+            "ad": 0,
+            "word_count": 710002,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 12019,
+            "free_chapter": false,
+            "score_count": 0,
+            "copyright": "",
+            "title": "三界鬼道士",
+            "new_tags": [
+                "机智",
+                "孤儿",
+                "随身流",
+                "龙"
+            ],
+            "on_sale": true,
+            "comment_count": 0,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 354,
+            "score": 0,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521818669,
+            "finish": false,
+            "tags": [
+                "灵异鬼怪",
+                "灵异",
+                "灵异奇谈"
+            ],
+            "price": 5,
+            "chapter_count": 355,
+            "authors": "路德维特",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000400,
+                    "label": "灵异奇谈"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p012pWj4yBtH/dJD1SJrUq7f7F6.jpg",
+            "summary": "本来的梦想，是做一个浮夸的二世祖，整日里游手好闲，欺男霸女，那简直神仙一样的日子，奈何命运造作，只能...",
+            "fiction_id": 398480,
+            "outer_id": "8014496803354503",
+            "latest": "第350章，地狱（八）"
+        },
+        {
+            "ad": 0,
+            "word_count": 277289,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 2197,
+            "free_chapter": false,
+            "score_count": 0,
+            "copyright": "",
+            "title": "人魅",
+            "new_tags": [
+                "勇猛",
+                "技术流",
+                "鬼怪"
+            ],
+            "on_sale": true,
+            "comment_count": 0,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 223,
+            "score": 0,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521868690,
+            "finish": false,
+            "tags": [
+                "寻墓探险",
+                "灵异",
+                "悬疑探险"
+            ],
+            "price": 5,
+            "chapter_count": 125,
+            "authors": "小火光",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000300,
+                    "label": "悬疑探险"
+                }
+            ],
+            "rights": "阅文集团旗下起点中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p014LTI7rgzV/5YQ1YcuC4wGGqe.jpg",
+            "summary": "【2017年人心探险类悬疑力作！】\r\n\r\n我有一剑，诛斩鬼精！\r\n\r\n人之所魅，却欲望无尽！\r\n\r\n...",
+            "fiction_id": 385906,
+            "outer_id": "7609842304927103",
+            "latest": "第125章 嫌疑人"
+        },
+        {
+            "ad": 0,
+            "word_count": 925525,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 57276,
+            "free_chapter": false,
+            "score_count": 14,
+            "copyright": "",
+            "title": "茅山禁忌",
+            "new_tags": [
+                "狡猾",
+                "孤儿",
+                "感情",
+                "鬼怪"
+            ],
+            "on_sale": true,
+            "comment_count": 8,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 441,
+            "score": 9.42,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521823824,
+            "finish": false,
+            "tags": [
+                "灵异鬼怪",
+                "灵异",
+                "灵异奇谈"
+            ],
+            "price": 5,
+            "chapter_count": 440,
+            "authors": "郭家",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000400,
+                    "label": "灵异奇谈"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01i72qO7t4X/7FWuXwhXMPYRsd.jpg",
+            "summary": "【2017精品大作推荐】请神、招魂、卜卦、煮豆隐身法、五雷正法、杀鬼咒、还魂咒。\r\n\r\n李浩然一出生...",
+            "fiction_id": 362045,
+            "outer_id": "6095536904553403",
+            "latest": "第四百三十九章 有鬼呀"
+        },
+        {
+            "ad": 0,
+            "word_count": 289321,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 1148,
+            "free_chapter": false,
+            "score_count": 1,
+            "copyright": "",
+            "title": "灵异科学家",
+            "new_tags": [
+                "腹黑",
+                "盗墓"
+            ],
+            "on_sale": true,
+            "comment_count": 1,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 168,
+            "score": 6,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1520706492,
+            "finish": false,
+            "tags": [
+                "寻墓探险",
+                "灵异",
+                "悬疑探险"
+            ],
+            "price": 5,
+            "chapter_count": 169,
+            "authors": "灵异科学家",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000300,
+                    "label": "悬疑探险"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01qB4HJ5Atn/LoT2HiujPXvjJn.jpg",
+            "summary": "相比于古墓中的金银财宝，我对古墓中的灵异力量更感兴趣，只要掌握了这种灵异力量，以后要是看谁不爽，就让...",
+            "fiction_id": 423473,
+            "outer_id": "8716720904603803",
+            "latest": "第一百六十九章 如何除妖"
+        },
+        {
+            "ad": 0,
+            "word_count": 438095,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 378,
+            "free_chapter": false,
+            "score_count": 0,
+            "copyright": "",
+            "title": "秘墓疑云",
+            "new_tags": [
+                "狡猾",
+                "盗贼",
+                "技术流",
+                "盗墓"
+            ],
+            "on_sale": true,
+            "comment_count": 0,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 156,
+            "score": 0,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521221795,
+            "finish": false,
+            "tags": [
+                "悬疑侦探",
+                "灵异",
+                "悬疑探险"
+            ],
+            "price": 5,
+            "chapter_count": 157,
+            "authors": "溅水马",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000300,
+                    "label": "悬疑探险"
+                }
+            ],
+            "rights": "阅文集团旗下起点中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01O5IjIhYQg/nhPD62QCPT3r3q.jpg",
+            "summary": "东南有座飞龙山，西北有眼雀仙泉。中原群龙横丘坐，大漠金沙骨埋田。这四句是其实是盛传于倒斗一门的经典。...",
+            "fiction_id": 423429,
+            "outer_id": "6114563004012303",
+            "latest": "第一五七章到手"
+        },
+        {
+            "ad": 0,
+            "word_count": 656707,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 109,
+            "free_chapter": false,
+            "score_count": 0,
+            "copyright": "",
+            "title": "武林秘闻",
+            "new_tags": [
+                "机智",
+                "孤儿",
+                "技术流",
+                "鬼怪"
+            ],
+            "on_sale": true,
+            "comment_count": 0,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 311,
+            "score": 0,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521866007,
+            "finish": false,
+            "tags": [
+                "悬疑侦探",
+                "灵异",
+                "悬疑探险"
+            ],
+            "price": 5,
+            "chapter_count": 312,
+            "authors": "蜃龙",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000300,
+                    "label": "悬疑探险"
+                }
+            ],
+            "rights": "阅文集团旗下起点中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01oFLWVKJ0S/eKHlxz3efCFnJw.jpg",
+            "summary": "——我们或许没有机会去选择将会经历什么样的事，不过，我们却可以选择以怎样的心情去面对它。\r\n\r\n——...",
+            "fiction_id": 432923,
+            "outer_id": "8197982203288003",
+            "latest": "第一百四十七回 城外来人"
+        },
+        {
+            "ad": 0,
+            "word_count": 342802,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 169,
+            "free_chapter": false,
+            "score_count": 0,
+            "copyright": "",
+            "title": "凶城记",
+            "new_tags": [
+                "坚毅",
+                "宅男",
+                "凡人流",
+                "鬼怪"
+            ],
+            "on_sale": true,
+            "comment_count": 0,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 132,
+            "score": 0,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1510420882,
+            "finish": false,
+            "tags": [
+                "寻墓探险",
+                "灵异",
+                "悬疑探险"
+            ],
+            "price": 5,
+            "chapter_count": 133,
+            "authors": "十一号线",
+            "categories": [{
+                    "category_id": 8000000,
+                    "label": "灵异"
+                },
+                {
+                    "category_id": 8000300,
+                    "label": "悬疑探险"
+                }
+            ],
+            "rights": "阅文集团旗下创世中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01Vd3Sh3ZDd/Fv5Cr8qYb3qr7O.jpg",
+            "summary": "当踏入罗布泊的那一刻起，所有的事情似乎都已经不再受控制；一座没有出现过的城市；一支来路不明的绿色药剂...",
+            "fiction_id": 409220,
+            "outer_id": "4336760303046803",
+            "latest": "第133章 救人一命"
+        }
+    ],
+    "v": 0
+}

@@ -1,0 +1,611 @@
+{
+    "count": 25,
+    "onebox": [],
+    "v": 0,
+    "third_data": [{
+        "rate_count": 0,
+        "title": "123",
+        "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01vGQtGZh74/KM2J01UnyeQoVX.jpg",
+        "source": 100,
+        "rate": 0,
+        "intro": "他是一个，聪敏好学而又调皮的初中生，他已发表过三部长篇小说，是中国年纪最小的省级作协会员，\n全国中学十佳文学少年。\n为了体验生活锻炼自己，他不带分文不靠亲友，十二天行程三千里，饱尝了同龄人不曾有的人生...",
+        "role": [
+            [
+                "作者",
+                "冬阳"
+            ]
+        ],
+        "source_id": "1211590",
+        "id": 396972
+    }],
+    "third_total": 6,
+    "result": 0,
+    "items": [{
+            "rate_count": 1376,
+            "title": "诛仙",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01YqmjmWxtq/Eis58fZCsBFvXY.jpg",
+            "source": 2,
+            "rate": 846,
+            "intro": "【李易峰、赵丽颖主演同名电视剧《诛仙青云志》】这个故事，便是从“青云门”开始的。",
+            "role": [
+                [
+                    "作者",
+                    "萧鼎"
+                ]
+            ],
+            "source_id": "319207",
+            "id": 1710527
+        },
+        {
+            "rate_count": 516,
+            "title": "诛仙前传：蛮荒行",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01sXJN0u7t2/nqSmkVBT5glFWh.jpg",
+            "source": 2,
+            "rate": 812,
+            "intro": "八荒六合，九幽魔障。青云众志，锦绣河山。\r\n是年，仇忘语初登圣魔之位，率众魔屠戮青云，意图取而代之。...",
+            "role": [
+                [
+                    "作者",
+                    "萧鼎"
+                ]
+            ],
+            "source_id": "345160",
+            "id": 1746331
+        },
+        {
+            "rate_count": 66,
+            "title": "诛仙旖途",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01dQiMh1jhV/yHeIhVselMUdvC.jpg",
+            "source": 2,
+            "rate": 648,
+            "intro": "穿入诛仙世界里能干嘛？当然是泡妞和踩人啦！\n陆雪琪？这是必须的。\n田灵儿？这个也不能少。\n碧瑶？你这...",
+            "role": [
+                [
+                    "作者",
+                    "布撸丝"
+                ]
+            ],
+            "source_id": "317590",
+            "id": 1705640
+        },
+        {
+            "rate_count": 3,
+            "title": "诛仙情缘",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01JuRqET1NJ/rL0uQuCM76XHmY.jpg",
+            "source": 2,
+            "rate": 866,
+            "intro": "九州大地，大劫将至，陷入乱世之中，她是诛仙剑魂转世，也是人皇后裔，天生拥有仙骨，仙脉，仙血，仙资绝世...",
+            "role": [
+                [
+                    "作者",
+                    "知识分子"
+                ]
+            ],
+            "source_id": "364335",
+            "id": 1791799
+        },
+        {
+            "rate_count": 4,
+            "title": "诛仙大帝",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p019v944zMpU/LeAabge32NIspz.jpg",
+            "source": 2,
+            "rate": 700,
+            "intro": "被相伴千年的道侣背叛，蛮龙从凡界复活，却意外打开了神魔墓地，至此蛮龙一路斩杀，踏入仙域，终有一日，让...",
+            "role": [
+                [
+                    "作者",
+                    "野蛮的豆腐"
+                ]
+            ],
+            "source_id": "370291",
+            "id": 1797910
+        },
+        {
+            "rate_count": 1,
+            "title": "诛仙神尊",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01taGBFByvH/aVR9GSuRdBIaQy.jpg",
+            "source": 2,
+            "rate": 200,
+            "intro": "剑道传人，逆天直上，碎虚空，斩修界，叱咤十方！\r\n剑气纵横三万里，一剑光寒御九霄！\r\n一代剑道宗师叶...",
+            "role": [
+                [
+                    "作者",
+                    "深海浮冰"
+                ]
+            ],
+            "source_id": "373239",
+            "id": 1801137
+        },
+        {
+            "rate_count": 3,
+            "title": "三界诛仙",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p0194MUIgQpx/ZzvkgTdzEYyKtN.jpg",
+            "source": 2,
+            "rate": 800,
+            "intro": "一柄屠天剑，斩尽人魔妖。一双无敌拳，砸破天与地。胸揽三界美人，横推各族天骄。脚踏诸天星辰，斩人灭神诛...",
+            "role": [
+                [
+                    "作者",
+                    "时间长河"
+                ]
+            ],
+            "source_id": "373548",
+            "id": 1801406
+        },
+        {
+            "rate_count": 0,
+            "title": "魔幻诛仙史",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01SBfaBMObd/1xIqDq3abXoYtg.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "太古时期，神州大地一片茫然，四周凄凉无比。随着时间的流逝，人类出现了，并占神州大地主要地位。由于神的...",
+            "role": [
+                [
+                    "作者",
+                    "郭凌"
+                ]
+            ],
+            "source_id": "380857",
+            "id": 1809131
+        },
+        {
+            "rate_count": 74,
+            "title": "续诛仙碧雪下凡",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01og0IymBS2/QBpJyW1Olfurim.jpg",
+            "source": 2,
+            "rate": 686,
+            "intro": "水调歌头·雪琪\n天琊望月舞，朝朝相思苦。九天仙下凡间，泪竹影涟涟。死灵渊无惧死，诛仙剑与谁诛，人去人...",
+            "role": [
+                [
+                    "作者",
+                    "青叶飘然"
+                ]
+            ],
+            "source_id": "37417",
+            "id": 1065182
+        },
+        {
+            "rate_count": 2,
+            "title": "西游之诛仙伐佛",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01QwARlA5za/oERkszoi2VE9wR.jpg",
+            "source": 2,
+            "rate": 600,
+            "intro": "【本书已缘更，慎入！】成为搅了蟠桃大会，吞了金丹之后的孙悟空，乱斗西游！\r\n前无路，退阻行，那就改变...",
+            "role": [
+                [
+                    "作者",
+                    "千年坎坷"
+                ]
+            ],
+            "source_id": "409443",
+            "id": 1854659
+        },
+        {
+            "rate_count": 0,
+            "title": "中华英雄 123",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p013S5Z1IIGY/O60rff8mMRvKek.jpg",
+            "source": 1,
+            "rate": 0,
+            "intro": "香港漫画大师马荣成成名作，创全港销量最高记录！",
+            "role": [
+                [
+                    "作者",
+                    "马荣成"
+                ]
+            ],
+            "source_id": "7b516cc1612f49cab478c01c70e3cfac",
+            "id": 1013305
+        },
+        {
+            "rate_count": 5325,
+            "title": "择天记",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01FGxJIX5Eh/FmiqldFNSmEsCK.jpg",
+            "source": 2,
+            "rate": 885,
+            "intro": "鹿晗、古力娜扎主演《择天记》原著小说；\n命里有时终须有，命里无时要强求。\n\n这是一个长生果的故事。",
+            "role": [
+                [
+                    "作者",
+                    "猫腻"
+                ]
+            ],
+            "source_id": "270885",
+            "id": 1300359
+        },
+        {
+            "rate_count": 0,
+            "title": "绝代双骄 123",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01pVzbUBIz8/KqsbVe2hF2rQg0.jpg",
+            "source": 1,
+            "rate": 0,
+            "intro": "古龙原著，何志文武侠漫画成名之作！",
+            "role": [
+                [
+                    "作者",
+                    "古龙"
+                ],
+                [
+                    "插画",
+                    "何志文"
+                ]
+            ],
+            "source_id": "883ad2e7c49244418700a65ebc8ddcd2",
+            "id": 1016350
+        },
+        {
+            "rate_count": 1,
+            "title": "绝世无双：第一部 123",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p016d2jVwnTm/sR5xvPruOLsTeH.jpg",
+            "source": 1,
+            "rate": 1000,
+            "intro": "两兄弟携手闯江湖，何志文武侠漫画巅峰之作！",
+            "role": [
+                [
+                    "作者",
+                    "何志文"
+                ]
+            ],
+            "source_id": "b7849c0cddcf461f8f0726fdac9f4d86",
+            "id": 1027598
+        },
+        {
+            "rate_count": 1,
+            "title": "绝世无双：第二部 123",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01ckiolpIPU/ad3mMw3rpGtMB7.jpg",
+            "source": 1,
+            "rate": 1000,
+            "intro": "两兄弟携手闯江湖，何志文武侠漫画巅峰之作！",
+            "role": [
+                [
+                    "作者",
+                    "何志文"
+                ]
+            ],
+            "source_id": "a9f00055351f4826bfab140b28145c3b",
+            "id": 1024354
+        },
+        {
+            "rate_count": 30,
+            "title": "Java入门123：一个老鸟的Java学习心得（二维码版）",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01yLfCMwHCj/virlzhXNaLG4AD.jpg",
+            "source": 1,
+            "rate": 873,
+            "intro": "Java入门图书中的“战斗机”！",
+            "role": [
+                [
+                    "编者",
+                    "臧萌"
+                ],
+                [
+                    "编者",
+                    "鲍凯"
+                ]
+            ],
+            "source_id": "99845ee54d0640d5b6d2b50f1d57f7e7",
+            "id": 1703459
+        },
+        {
+            "rate_count": 0,
+            "title": "婴儿手语123",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01cj76oqtqy/OIJyy6EDsCNS1M.jpg",
+            "source": 3,
+            "rate": 0,
+            "intro": "孩子的天性是要与他人相互了解，《婴儿手语123》叙述了如何利用这种天性建立双向交流，并详细介绍了一些...",
+            "role": [
+                [
+                    "作者",
+                    "【美】凯德金"
+                ]
+            ],
+            "source_id": "6e72b0a9e9aa4b20b49b867ff1b7a8f6",
+            "id": 1820324
+        },
+        {
+            "rate_count": 3,
+            "title": "3D打印建模：Autodesk 123D Design详解与实战",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p012gRdMBD2m/z76xF79F4MpDQ9.jpg",
+            "source": 3,
+            "rate": 866,
+            "intro": "为推动3D打印的普及，Autodesk公司发布了一套适用于普通用户的免费建模软件Autodesk12...",
+            "role": [
+                [
+                    "作者",
+                    "陈启成"
+                ]
+            ],
+            "source_id": "6ab6b949e433422ba3c797ca52506d0c",
+            "id": 1683619
+        },
+        {
+            "rate_count": 336,
+            "title": "终极高手",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01g2I3h9iBj/nKndrlesOzKA9q.jpg",
+            "source": 2,
+            "rate": 732,
+            "intro": "他是超级兵王，他也是暗影杀手！\n会医术，专治胸部发育不良……\n会催眠，调教各路绝色美女……\n踩纨绔，...",
+            "role": [
+                [
+                    "作者",
+                    "秋风123"
+                ]
+            ],
+            "source_id": "312940",
+            "id": 1696170
+        },
+        {
+            "rate_count": 1,
+            "title": "府衙有恶女",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01m8seDjPmX/1nmEoieveYIBT7.jpg",
+            "source": 2,
+            "rate": 800,
+            "intro": "弱女无所依，被冤为恶妇，\n一死报夫怨，此生再重往。\n避开中山狼，从容斗官场。\n府衙有恶女，心狡性乖张...",
+            "role": [
+                [
+                    "作者",
+                    "子规123"
+                ]
+            ],
+            "source_id": "295573",
+            "id": 1607813
+        },
+        {
+            "rate_count": 2,
+            "title": "龙家老村",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01vG88kcuBp/fcvEYBTi64qjWM.jpg",
+            "source": 2,
+            "rate": 200,
+            "intro": "1943年，一条与世无争的小村庄，惨被日军屠杀，那天恰逢天狗食日，阴阳师埋下古灯，说出怨咒，当古灯再...",
+            "role": [
+                [
+                    "作者",
+                    "蠢女123"
+                ]
+            ],
+            "source_id": "352184",
+            "id": 1760214
+        },
+        {
+            "rate_count": 0,
+            "title": "血染寒冰",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01rdHLy39zg/jEugkkvI5bu464.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "大侠南宫少游早年助宋杀敌，双手染血，离军后浪迹江湖，英雄气，三尺寒冰扫荡群魔，一双肉掌震慑奸邪，儿女...",
+            "role": [
+                [
+                    "作者",
+                    "蠢蠢123"
+                ]
+            ],
+            "source_id": "362826",
+            "id": 1790103
+        },
+        {
+            "rate_count": 0,
+            "title": "混迹在都市的命师",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01BZ4bS6VVK/YtyuFp5WsCAWmQ.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "命师，专修性命的大师。\n能够观察到人生命的刻度，以此来为自己续命添寿，其中修为高深者，甚至还可以沟通...",
+            "role": [
+                [
+                    "作者",
+                    "cc123"
+                ]
+            ],
+            "source_id": "364722",
+            "id": 1807262
+        },
+        {
+            "rate_count": 0,
+            "title": "拒绝冥婚：笔仙誓做我老公",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01NADBGheVz/XqoDHWaaISzUp2.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "为了帮助一个女同学对付鬼，我买了一本关于茅山术的图书，没成想无意间惹到了一个笔仙，这个笔仙不但下流还...",
+            "role": [
+                [
+                    "作者",
+                    "琉璃123"
+                ]
+            ],
+            "source_id": "366017",
+            "id": 1793766
+        },
+        {
+            "rate_count": 0,
+            "title": "传奇球星",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01ZtDvq3uhG/OjIeDI7bGW3nJk.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "任何成功的球员都有一段传奇的经历。一名年轻的球员如何一步一步走向传奇的故事。",
+            "role": [
+                [
+                    "作者",
+                    "巨西城123"
+                ]
+            ],
+            "source_id": "366476",
+            "id": 1794317
+        },
+        {
+            "rate_count": 0,
+            "title": "悲啼歌",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01CSWxcLYDf/P94jFuEg9a3DTh.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "人生哀苦，长而啼之。青春无罪，云里雾去，曲折生涯，何以而度，是悲是喜，神明自意。青春就如同碗里的一碗...",
+            "role": [
+                [
+                    "作者",
+                    "影酆123"
+                ]
+            ],
+            "source_id": "375693",
+            "id": 1803447
+        },
+        {
+            "rate_count": 4,
+            "title": "娱乐足篮球",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01BAZkT5hed/J7OPbtWn3UL2me.jpg",
+            "source": 2,
+            "rate": 950,
+            "intro": "2016年的夏天发生了很多事。\r\n里约奥运会中国男篮再度5连败，加上2012伦敦奥运会，合计10连败...",
+            "role": [
+                [
+                    "作者",
+                    "飞翔的123"
+                ]
+            ],
+            "source_id": "377300",
+            "id": 1805068
+        },
+        {
+            "rate_count": 0,
+            "title": "回魂奇谭",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01Qd6fUkdAc/UaNIKlFo7mOqaH.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "人生自古谁无死，买个早饭也能死，言清没想到买个早饭就被安排到了九幽（俗称阴间的地方）旅游了一趟。言清...",
+            "role": [
+                [
+                    "作者",
+                    "宜霖123"
+                ]
+            ],
+            "source_id": "378407",
+            "id": 1806241
+        },
+        {
+            "rate_count": 5,
+            "title": "异世赛亚人",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01haXuUMP2I/5cPPRcOWk1CO99.jpg",
+            "source": 2,
+            "rate": 640,
+            "intro": "披着同人文表皮的玄幻小说。\r\n让赛亚人之力，在异世界光芒万丈！……德玛西亚！",
+            "role": [
+                [
+                    "作者",
+                    "幽灵123"
+                ]
+            ],
+            "source_id": "374560",
+            "id": 1802339
+        },
+        {
+            "rate_count": 33,
+            "title": "逆转人生",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01mEs0fzkuz/WatygFEkSvMMGp.jpg",
+            "source": 2,
+            "rate": 769,
+            "intro": "莫丹红死后才知道，小白花不是真正的小白花，情圣不是真正的情圣，却唯有自己这个人人厌弃的女配才是真正的...",
+            "role": [
+                [
+                    "作者",
+                    "空白A123"
+                ]
+            ],
+            "source_id": "44480",
+            "id": 1068922
+        },
+        {
+            "rate_count": 0,
+            "title": "重生之狐萌君倾",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01vC0MGXhAn/5ZQpUeOQ1FlLtu.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "顾默从小生得奇病，被关在漪澜院像个怪物一样活了十六年。嫁人后不到七天，她悲剧地挂了。重生成狐，她抛却...",
+            "role": [
+                [
+                    "作者",
+                    "水瓶子123"
+                ]
+            ],
+            "source_id": "281363",
+            "id": 1397857
+        },
+        {
+            "rate_count": 1,
+            "title": "英雄无敌之神牧",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01g03Ab9Q98/13avLAbqKthaeB.jpg",
+            "source": 2,
+            "rate": 1000,
+            "intro": "雷老虎重生回到3年前《英雄》开服的日子。\r\n我有三年游戏经验，我有玩家第一城，我有名将英雄，我……\r...",
+            "role": [
+                [
+                    "作者",
+                    "密码就是123"
+                ]
+            ],
+            "source_id": "282454",
+            "id": 1398957
+        },
+        {
+            "rate_count": 0,
+            "title": "绝世小婢",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01k4zMB7MI4/1rXc73sU3TwUSr.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "暴雨中，泪湿衫，羸弱的身躯摇摇晃晃的走在雨中。\r\n帝王冰冷的眸子，冰冷的利箭。她踏一步，他屠一人。为...",
+            "role": [
+                [
+                    "作者",
+                    "四季悠悠123"
+                ]
+            ],
+            "source_id": "402032",
+            "id": 1843299
+        },
+        {
+            "rate_count": 0,
+            "title": "武林逆袭",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01mUadKz8bF/5sg4zzXlknnRo9.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "懵懂少年练成金刚不坏之身，屌丝逆袭武林。\r\n泡美女、练奇功，挑战既有秩序。\r\n外星入侵，世界危机。\r...",
+            "role": [
+                [
+                    "作者",
+                    "云中奂123"
+                ]
+            ],
+            "source_id": "403608",
+            "id": 1844921
+        },
+        {
+            "rate_count": 0,
+            "title": "贩鬼超市",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01oBgJU9LCz/CLvoZQcPf5S4YA.jpg",
+            "source": 2,
+            "rate": 0,
+            "intro": "羚宜超市新招来的兼职苏亘，竟然在超市贩卖厉鬼！\r\n苏亘：“我能兼职吗？不论薪金，只求三餐一宿！”\r\n...",
+            "role": [
+                [
+                    "作者",
+                    "蠢女123"
+                ]
+            ],
+            "source_id": "411070",
+            "id": 1857147
+        },
+        {
+            "rate_count": 2,
+            "title": "奥特战神传",
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01pSBVKjVy8/MdclTmOCglRRk1.jpg",
+            "source": 2,
+            "rate": 600,
+            "intro": "向童年致敬！向未来前行！\r\n无尽之光泰恩斯，归来！",
+            "role": [
+                [
+                    "作者",
+                    "幽灵123"
+                ]
+            ],
+            "source_id": "400601",
+            "id": 1841873
+        }
+    ],
+    "total": 40,
+    "precise_total": 0,
+    "more": true
+}
